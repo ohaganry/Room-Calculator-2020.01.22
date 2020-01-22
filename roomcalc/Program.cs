@@ -20,7 +20,7 @@ namespace roomcalc
                 float area = (length * width);
                 float volume = (length * width * height);
 
-                Console.WriteLine($"Perimeter: {perimeter} ft. \n Area: {area} sq.ft. \n Volume: {volume} cu.ft.");
+                Console.WriteLine($"Perimeter: {perimeter} ft. \n Area: {area} ft.² \n Volume: {volume} ft.³");
                 Console.WriteLine("Would you like to measure another room? (y/n)");
                 proceed = Console.ReadLine();
             }
