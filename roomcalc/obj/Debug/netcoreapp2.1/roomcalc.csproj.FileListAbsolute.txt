@@ -1,0 +1,14 @@
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/roomcalc.deps.json
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/roomcalc.runtimeconfig.json
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/roomcalc.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/roomcalc.dll
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/roomcalc.pdb
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/rclib.dll
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/bin/Debug/netcoreapp2.1/rclib.pdb
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.AssemblyInfo.cs
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.csproj.CopyComplete
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.dll
+/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/Debug/netcoreapp2.1/roomcalc.pdb

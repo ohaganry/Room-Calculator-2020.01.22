@@ -1,0 +1,9 @@
+/home/master/Documents/bootcamp/RoomCalc/rclib/bin/Debug/netstandard2.0/rclib.deps.json
+/home/master/Documents/bootcamp/RoomCalc/rclib/bin/Debug/netstandard2.0/rclib.dll
+/home/master/Documents/bootcamp/RoomCalc/rclib/bin/Debug/netstandard2.0/rclib.pdb
+/home/master/Documents/bootcamp/RoomCalc/rclib/obj/Debug/netstandard2.0/rclib.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/RoomCalc/rclib/obj/Debug/netstandard2.0/rclib.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/RoomCalc/rclib/obj/Debug/netstandard2.0/rclib.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/RoomCalc/rclib/obj/Debug/netstandard2.0/rclib.AssemblyInfo.cs
+/home/master/Documents/bootcamp/RoomCalc/rclib/obj/Debug/netstandard2.0/rclib.dll
+/home/master/Documents/bootcamp/RoomCalc/rclib/obj/Debug/netstandard2.0/rclib.pdb

@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/master/Documents/bootcamp/RoomCalc/roomcalc/roomcalc.csproj": {}
+  },
+  "projects": {
+    "/home/master/Documents/bootcamp/RoomCalc/rclib/rclib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/master/Documents/bootcamp/RoomCalc/rclib/rclib.csproj",
+        "projectName": "rclib",
+        "projectPath": "/home/master/Documents/bootcamp/RoomCalc/rclib/rclib.csproj",
+        "packagesPath": "/home/master/.nuget/packages/",
+        "outputPath": "/home/master/Documents/bootcamp/RoomCalc/rclib/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/master/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/master/Documents/bootcamp/RoomCalc/roomcalc/roomcalc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/master/Documents/bootcamp/RoomCalc/roomcalc/roomcalc.csproj",
+        "projectName": "roomcalc",
+        "projectPath": "/home/master/Documents/bootcamp/RoomCalc/roomcalc/roomcalc.csproj",
+        "packagesPath": "/home/master/.nuget/packages/",
+        "outputPath": "/home/master/Documents/bootcamp/RoomCalc/roomcalc/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/master/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/home/master/Documents/bootcamp/RoomCalc/rclib/rclib.csproj": {
+                "projectPath": "/home/master/Documents/bootcamp/RoomCalc/rclib/rclib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
